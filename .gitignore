@@ -14,9 +14,11 @@ CodingChallenges/bin/Debug/netcoreapp1.1/CodingChallenges.runtimeconfig.dev.json
 *.pdb
 *.props
 *.targets
-*.txt
+
 *.dll
 *.json
 *.cache
 *.sqlite
 *.cache
+CodingChallenges/obj/Debug/netcoreapp1.1/CodingChallenges.csproj.FileListAbsolute.txt
+OddOccurancesInArray_Problem_Statement.txt
