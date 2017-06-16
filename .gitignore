@@ -7,3 +7,13 @@ CodingChallenges/obj/Debug/netcoreapp1.1/TemporaryGeneratedFile_5937a670-0e60-40
 CodingChallenges/obj/Debug/netcoreapp1.1/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
 CodingChallenges/obj/Debug/netcoreapp1.1/CodingChallenges.AssemblyInfo.cs
 CodingChallenges.sln
+CodingChallenges/bin/Debug/netcoreapp1.1/CodingChallenges.deps.json
+CodingChallenges/bin/Debug/netcoreapp1.1/CodingChallenges.dll
+CodingChallenges/bin/Debug/netcoreapp1.1/CodingChallenges.runtimeconfig.json
+CodingChallenges/bin/Debug/netcoreapp1.1/CodingChallenges.runtimeconfig.dev.json
+*.pdb
+*.props
+*.targets
+*.txt
+*.dll
+*.json
