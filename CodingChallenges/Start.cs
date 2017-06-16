@@ -36,6 +36,16 @@ namespace CodingChallenges
 
             Console.WriteLine((DateTime.Now - x).ToString());
 
+            Console.WriteLine("-----------------------------------------");
+
+            Console.WriteLine(DateTime.Now.ToString());
+            x = System.DateTime.Now;
+            int[] B = { 9, 3, 9, 3, 9, 7, 9 };
+            
+            Console.WriteLine("Odd occurance of the given array is " + OddOccurrencesInArray.solution(B));
+
+            Console.WriteLine((DateTime.Now - x).ToString());
+
             Console.Read();
         }
     }
