@@ -46,6 +46,20 @@ namespace CodingChallenges
 
             Console.WriteLine((DateTime.Now - x).ToString());
 
+            Console.WriteLine(DateTime.Now.ToString());
+            x = System.DateTime.Now;
+            int[] C = { 1, 2, 3, 4, 5, 6, 7 };
+
+            var cyclicResult = CyclicRotation.solution(C, 3);
+            Console.Write("Cyclic rotation of array " );
+            foreach (var item in cyclicResult)
+            {
+                Console.Write("[ " + item + "]  ");
+            }
+
+            Console.WriteLine("");
+            Console.WriteLine((DateTime.Now - x).ToString());
+
             Console.Read();
         }
     }
