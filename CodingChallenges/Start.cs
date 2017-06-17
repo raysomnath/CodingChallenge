@@ -60,6 +60,9 @@ namespace CodingChallenges
             Console.WriteLine("");
             Console.WriteLine((DateTime.Now - x).ToString());
 
+            Console.WriteLine("-----------------------------------------");
+            Console.WriteLine(ParkingProblem.solution("10:00","11:20"));
+
             Console.Read();
         }
     }

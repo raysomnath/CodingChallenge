@@ -8,6 +8,7 @@ namespace CodingChallenges
     {
         public static int solution(int[] A)
         {
+           
             if (A.Length != 0 && A.Length == 1)
                 return A[0] == 1 ? 2 : 1;
             else if (A.Length != 0 && A.Length > 1)
